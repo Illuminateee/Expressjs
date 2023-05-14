@@ -1,0 +1,2 @@
+this is how it works : http://127.0.0.1:8080/biodata?name=susi&tempat=wonosobo&tanggal=12081990&alamat=Jl.%20Gatot%20Subroto%20No.%2006
+still confusing how the example use  : "tempat-lahir" on url, because in my case, javascript saw it as 'minus', so i am using "tempat" and "tanggal" for params tempat-lahir and tanggal-lahir.
